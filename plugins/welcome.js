@@ -1,8 +1,8 @@
-/* # Exclusively from danuma project 
+/* # Exclusively from pearl project 
 # Do not use this fore any commercial thing
 # If you abuse thais bot we wil kick you from bot 
 # Do not edit (Respect to the Devaoloper) 
-# All rights reserved ©Lasiya @lasiya99X t.me/PEARLCYBERCRIME
+# All rights reserved ©hiruwa @hiruwa t.me/PEARLCYBERCRIME
 
 
 const Asena = require('../events');
